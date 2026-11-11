@@ -1,6 +1,6 @@
 cask "wirrow" do
-  version "0.6.2"
-  sha256 "d2f486672eac6e5ebf5bf4c15e0b84396622919890b6fee65c9f3476d3aa66f9"
+  version "0.6.3"
+  sha256 "32234cd76c963671f623ac30ffa78289d4c26f34eb450246d8bbdb018e2aea76"
 
   url "https://github.com/Q7N3T/wirrow/releases/download/v#{version}/Wirrow-#{version}.dmg"
   name "Wirrow"
