@@ -1,6 +1,7 @@
 # Q7N3T Homebrew tap
 
 ```sh
+brew trust --cask q7n3t/tap/wirrow
 brew install --cask q7n3t/tap/wirrow
 ```
 
